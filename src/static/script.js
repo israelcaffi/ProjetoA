@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const interesse = interesseSelect.options[interesseSelect.selectedIndex].text;
             
             // Número do WhatsApp da clínica (substitua pelo número real)
-            const numeroClinica = "5512997736451"; 
+            const numeroClinica = "5512988903785"; 
             
             // Monta a mensagem
             const mensagem = `Olá, clínica Lumina! Meu nome é ${nome} e tenho interesse em: ${interesse}. Gostaria de mais informações sobre avaliação.`;
